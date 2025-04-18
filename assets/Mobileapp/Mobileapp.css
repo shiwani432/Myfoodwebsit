@@ -1,0 +1,37 @@
+.mobile-app-page {
+    margin-top: 150px; /* This will push it 200px below navbar */
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 100px;
+    position: static;
+  }
+  
+  .mobil{
+    margin-left: 450px;
+    width: 450px;
+    box-shadow: 0 6px 10px rgb(0, 0, 0.5);
+    height: 500px;
+    margin-bottom: 50px;
+  }
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    
+  }
+ 
+  
+  .mobile-app-page h1{
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .mobile-app-page p {
+    font-size: 18px;
+    color: #777;
+  }

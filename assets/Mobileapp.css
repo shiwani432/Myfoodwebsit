@@ -1,0 +1,16 @@
+/* Mobile App Page Styles */
+.mobile-app-page {
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.mobile-app-page h2 {
+  color: #333;
+  font-size: 24px;
+}
+
+.mobile-app-page p {
+  font-size: 18px;
+  color: #777;
+}

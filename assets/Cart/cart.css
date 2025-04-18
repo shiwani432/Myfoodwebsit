@@ -1,0 +1,28 @@
+.cart-container {
+    padding: 150px 20px 100px; /* for nav and footer spacing */
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .cart-header,
+  .cart-item {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .cart-header {
+    font-weight: bold;
+    background-color: #f0f0f0;
+  }
+  
+  .cart-total {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
